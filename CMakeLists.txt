@@ -37,7 +37,7 @@ set(META_PROJECT_DESCRIPTION "Free C++ class library of cryptographic schemes")
 set(META_GITHUB_REPO "https://github.com/Restech-Pty-Ltd/Thirdparty_cryptopp")
 set(META_VERSION_MAJOR "8")
 set(META_VERSION_MINOR "9")
-set(META_VERSION_PATCH "0")
+set(META_VERSION_PATCH "1")
 set(META_VERSION_REVISION "${GIT_REV}")
 set(META_VERSION
     "${META_VERSION_MAJOR}.${META_VERSION_MINOR}.${META_VERSION_PATCH}"
